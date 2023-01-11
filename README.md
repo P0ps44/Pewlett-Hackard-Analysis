@@ -15,7 +15,7 @@ The company will be in a lot of troble if it doesn't address the significant amo
 
 Below is simple, but alarming graph. 
 
-![This is an image](Data/EmployeeDiff.png)
+
 
 ## Summary
        
