@@ -15,10 +15,9 @@ The company will be in a lot of troble if it doesn't address the significant amo
 
 Below is simple, but alarming graph. 
 
-
+![This is an image](Data/EmployeeDiff.png)
 
 ## Summary
        
-After completing this analysis, there are three things I would recommend the CEO to do to raise profits. First, with urban city types clearly on top for profit,
-I would suggest more employees to work the urban areas since you could gain even more profit. Second, this goes along with helping the 1st suggestion,
-start moving rural drivers to city areas since the profits are close to 0. Basically you are almost losing money in these areas. My third suggestion would affect suburban and rural areas. I would suggest raising the fares of these areas since the demand isn't as high for urban areas. That way, fewer drivers working these areas will get more for their buck by having only 5 customers for the day as opposed to a city driver with 20 drives a day.
+After completing this project, its concluded that the company should start hiring more senior level employees and add more current staff 
+to the mentorship program. I found this extra data by compiling the mentorship data into a smaller table call mid in this Data folder github. 
