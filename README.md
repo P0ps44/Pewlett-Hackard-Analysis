@@ -8,9 +8,12 @@ After compiling that database, the next step was to figure out all the employees
 ## Results
 
 The company will be in a lot of troble if it doesn't address the significant amount of employees retiring soon. It was found that:
-- Almost 99% of the staff will be retiring soon.
-- 
+- The ratio between employess retiring and empolyees possibly entering a mentorship is astounding.
+- Two thirds of the retiring staff are senior level employees.
+- Only 2 managers are retiring soon. 
+- Currently, no managers are in the mentoring program.
 
+Below is simple, but alarming graph. 
 
 ![This is an image](Data/EmployeeDiff.png)
 
